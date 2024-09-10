@@ -1,7 +1,7 @@
 <h1 align="center">Awesome JavaScript Projects</h1>
 
 # Update:
-I have launch free mentorship for frontend developer. If you want to learn frontend development, build real world projects, and get jobs in frontend development. So should definetly check out this free mentorship program.
+I have launch free mentorship for frontend developer. If you want to learn frontend development, build real world projects, and get jobs in frontend development. So should definetly check out this free mentorship program,so what should i do.
 
 <p align="center">
   <a href="https://youtu.be/tI7R7YG4jEY">
